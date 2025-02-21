@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "arduinousingpython",
+			"path": "."
+		},
+		{
+			"name": "Arduino",
+			"path": "../../PlatformIO/Projects/Arduino"
+		}
+	],
+	"settings": {}
+}
